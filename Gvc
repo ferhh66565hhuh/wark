@@ -1,0 +1,31 @@
+echo "# wark" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ferhh66565hhuh/wark.git
+git push -u origin main
+
+
+warp://auto?ifp=1-8&ifps=6-20&ifpd=2-25&ifpm=m4#m4
+
+
+
+
+
+
+
+
+
+
+
+warp://188.114.97.74:1387?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m425
+
+
+
+warp://188.114.97.74:1387?ifp=40-80&ifps=40-100&ifpd=4-8#m426
+
+
+
+warp://188.114.97.74:1387?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=g04ad5d#m429
+
