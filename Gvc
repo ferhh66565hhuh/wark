@@ -5,8 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/wark.git
 git push -u origin main
-warp://188.114.99.93:987?ifp=1-50&ifps=1-56&ifpd=1-67&ifpm=m4#90
-warp://188.114.99.150:942?ifp=1-50&ifps=1-56&ifpd=1-67&ifpm=m4#12
-warp://188.114.98.9:8319?ifp=1-50&ifps=1-56&ifpd=1-67&ifpm=m4#54
-warp://188.114.98.93:942?ifp=1-50&ifps=1-56&ifpd=1-67&ifpm=m4#76
-warp://162.159.192.169:942?ifp=1-50&ifps=1-56&ifpd=1-67&ifpm=m4#34
+warp://p1@zxc.amirhossein77.ir/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#a&&detour=warp://p2@zxc.amirhossein77.ir/?ifp=1-38&ifpm=m4#m4
